@@ -19,10 +19,6 @@ An automated business development (BDR) pipeline that scrapes job postings, perf
 - **Database**: Firebase
 - **APIs**: Proxycurl, Clay, Apollo
 
-## 📸 Screenshots
-
-*(Add screenshots of the dashboard, output logs, or email copy examples here)*
-
 ## 📦 Setup
 
 1. Clone the repo
